@@ -1,0 +1,17 @@
+.container {
+  background-color: #40D1E8;
+  margin-top: 80px;
+  padding: 80px;
+  width: 50%; 
+  height: auto;
+}
+
+.button-sec {
+  margin-top: 50px;
+  padding-top: 50px;
+}
+
+.btn {
+  display: block;
+  margin: auto;
+}

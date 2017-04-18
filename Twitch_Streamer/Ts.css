@@ -1,0 +1,95 @@
+body {
+  background: url("http://www.fullsailblog.com/content/uploads/2014/05/twitch-jumbotron.jpg")center center;
+  background-size: cover;
+  color: purple;
+  font-family: 'Baloo Bhaina', cursive;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+
+.container {
+  margin: auto;
+  padding: inherit;
+  
+}
+
+.menu {
+  text-align: center;
+}
+
+button:hover {
+  color: purple;
+  
+}
+
+.btn {
+  display: inline-block;
+  margin: 12px;
+  height: 50px;
+  width:100px;
+  color: white;
+  font-family: 'Baloo Bhaina', cursive;
+  background: black;
+  border-style: none;
+  font-size: 20px;
+  border-radius: 10px;
+  
+}
+
+.all-user {
+  position: relative;
+  height: auto;
+  width: 600px;
+  background: black;
+  border: 5px solid green;
+  border-radius: 10px;
+  background: rgba(0,0,0,0.75);
+  margin-top: 40px;
+  font-size: 15px;
+}
+
+.off-user {
+  width: 600px;
+  background: black;
+  border: 5px solid red;
+  border-radius: 10px;
+  background: rgba(0,0,0,0.75);
+  margin-top: 40px;
+  font-size: 15px;
+}
+
+.deleted-user {
+  width: 600px;
+  background: black;
+  border: 5px solid grey;
+  border-radius: 10px;
+  background: rgba(0,0,0,0.75);
+  margin-top: 40px;
+  font-size: 15px;
+}
+
+img {
+  height: 80px;
+  width: 80px;
+  float: left;
+  border-radius: 10px;
+}
+
+ h3 {
+   
+  color: white;
+}
+p {
+  color: green;
+}
+span {
+  color: red;
+}
+a {
+  text-decoration: none;
+}
+
+.container-fluid {
+  margin: auto;
+}

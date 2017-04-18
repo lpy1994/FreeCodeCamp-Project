@@ -1,0 +1,43 @@
+.container {
+  text-align: center;
+}
+
+a {
+  font-size: 20px;
+  text-decoration: none;
+  color: blue;
+  
+}
+
+#search-box {
+  margin-top: 30px;
+  height: 30px;
+  width: 400px;
+  font-size: 25px;
+}
+
+.btn {
+  height: 25px;
+  margin-top: 30px;
+  width: 100px;
+   margin-bottom: 50px;
+}
+  
+.result {
+  height: auto;
+  width: 66%;
+}
+
+.wikiBox {
+  padding-top: 20px;
+  height: auto;
+  margin: 0px 20% 0px 20%;
+  border: 5px blue solid;
+  border-radius: 10px;
+}
+
+#titles {
+  color: black;
+  font-size: 25px;
+  padding-bottom: 5px;
+}

@@ -1,0 +1,29 @@
+
+h1 {
+  font-family: 'Bungee Shade', cursive;
+  font-size: 50px;
+}
+
+p, li {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 25px;
+}
+
+h1 {
+ padding-top: 40px;
+ padding-bottom: 40px;
+}
+
+.img {
+   text-align: center;
+  margin-bottom: 40px;
+  
+}
+img {
+  border-radius: 10px;
+}
+
+.ending {
+  text-align: center;
+  padding: 40px, 0px, 40px, 0px;
+}

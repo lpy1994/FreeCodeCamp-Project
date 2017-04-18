@@ -1,0 +1,165 @@
+h1, h2, p, a, body{
+  font-family: Poiret One;
+  color: #fff;
+}
+
+body {
+  background: url("https://images.unsplash.com/photo-1456894332557-b03dc5cf60d5?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=29a9bb29bcbf19a5954d0110b19d5b51");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+
+ header {
+  margin: 0;
+  padding: 0;
+  width: 100%; 
+  background: #000;
+  position: fixed;
+  z-index: 1;
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+
+#logo {
+  font-size: 30px;
+  padding-left: 20px;
+  text-decoration: none;
+}
+
+.col-md-4 {
+  padding-left: 40px;
+  float: left:
+}
+
+
+#header li {
+  padding-right: 40px;
+  padding-top: 10px;
+  display: block;
+}
+
+.scrollable {
+  font-size: 22px;
+  background: #000;
+}
+
+.nav li a {
+  border-radius: 10px;
+}
+
+#about {
+  padding-top: 100px;
+  padding-bottom: 200px;
+}
+
+#about .container {
+  background: #000;
+  background: rgba(0,0,0,0.85);
+  border-radius: 6px;
+}
+
+.intro-text {
+  margin: 30px;
+  font-size: 35px;
+}
+
+
+#projects .container {
+  background: #000;
+  background: rgba(0,0,0,0.85);
+  border-radius: 6px;
+}
+
+.project-text {
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+
+.thumbnail {
+  border: 0px;
+  background: none;
+  
+}
+
+img {
+    display: block;
+    position: relative;
+    width: 100%;
+}
+
+.contact{
+  width: 100%;
+  margin-top: 150px;
+  padding-left: 20px;
+  padding-bottom: 30px;
+  background: #000;
+  background: rgba(0,0,0,0.85);
+}
+
+.form-control {
+  width: 500px;
+  height: 50px;
+  border: none;
+}
+
+#message {
+  height: 100px;
+}
+
+input[type="NAME"] {
+  font-size: 20px;
+  color:#000;
+  font-family: Poiret One;
+}
+
+input[type="EMAIL"] {
+  font-size: 20px;
+  color:#000;
+  font-family: Poiret One;
+}
+
+input[type="PHONE NUMBER"] {
+  font-size: 20px;
+  color:#000;
+  font-family: Poiret One;
+}
+
+textarea[type="MESSAGE"] {
+  font-size: 20px;
+  color:#000;
+  font-family: Poiret One;
+}
+
+#submit{
+width: 100px;
+background: #000;
+border: none;
+text-decoration: none;
+font-size: 20px;
+ color: #fff;
+}
+
+footer {
+  margin: 0;
+  padding: 0;
+  width: 100%; 
+  background: #000;
+  padding-bottom: 15px;
+  padding-top: 10px;
+  margin-top: 60px;
+}
+
+footer {
+  text-align: center
+}
+
+#footer li {
+  display: inline-block;
+  list-style: none;
+  padding-right: 30px;
+}
+
+.fa {
+  font-size: 1.8em;
+}

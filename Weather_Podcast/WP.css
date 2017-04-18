@@ -1,0 +1,31 @@
+
+.temperature {
+  font-size: 50px;
+  color: white;
+}
+
+#location {
+  font-size: 55px;
+  color: white;
+}
+
+h1 {
+  padding-top: 20px;
+  color: white;
+}
+
+.location{
+  font-size: 35px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-transform: capitalize;
+}
+
+
+body {
+  margin: 0 auto;
+  color: #161616;
+  text-align: center;
+  background-color: black;
+  font-family: "indie flower", "Cursive"; 
+}
